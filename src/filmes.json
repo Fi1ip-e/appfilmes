@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Factory Girl",
+        "image": "FactoryGirl.png",
+        "price": 50.99,
+        "description": "Nos meados dos anos 60, a milionária Edie Sedgwick conhece Andy Warhol e entra para a famosa Fábrica de Warhol, se transformando na musa do artista pop. Apesar de parecer que tem tudo, Edie não consegue ter o amor de Andy. Ela inicia um romance com um músico carismático, que a pressiona para deixar Andy e a Fábrica."
+    },
+    {
+        "name": "jennifer's body",
+        "image": "jennifersbody.png",
+        "price": 35.99,
+        "description": "Ao ser possuída por um demônio, a estudante Jennifer se torna muito brava com os rapazes que nunca a deram uma chance. Enquanto a maldosa Jennifer satisfaz seu apetite com carne humana de meninos da escola, sua amiga nerd Needy descobre o que está acontecendo e promete colocar um fim na carnificina."
+    },
+    
+    {
+        "name": "300",
+        "image": "300.png",
+        "price": 25.99,
+        "description": "Em 480 A.C., existe uma guerra entre a Pérsia, liderada pelo rei Xerxes, e a Grécia. Na batalha de Thermopylae, Leônidas, rei da cidade grega de Sparta, lidera seu guerreiros em desvantagem contra o massivo exército persa. Mesmo sabendo que a morte certa os espera, seus sacrifícios inspiram toda a Grécia a unir-se contra o seu inimigo comum."
+    },
+    {
+        "name": "blue valentine",
+        "image": "BlueValentine.png",
+        "price": 30.99,
+        "description": "Um casal de classe média tenta reacender a chama de seu casamento durante uma viagem de fim de semana. Apesar de ainda serem jovens, os dois já estão marcados pela vida suada que levam juntos e pelas experiências que tiveram no passado."
+    },
+    {
+        "name": "Epic Movie",
+        "image": "EpicMovie.png",
+        "price": 25.99,
+        "description": "Quatro adultos órfãos vivem uma aventura incrível em filmes de fantasias. Eles visitam um grotesco confeiteiro em uma fábrica de chocolate e entram em um reino mistico, no qual eles devem ajudar um sábio e vigoroso leão a se livrar da terra de uma feiticeira."
+    },
+    
+    {
+        "name": "Aquamarine",
+        "image": "aquamarine.png",
+        "price": 25.99,
+        "description": "Duas garotas de doze anos de idade adoram o dilapidado clube de praia próximo às suas casas. Depois de uma tempestade violenta, as garotas descobrem a sereia Aquamarine na piscina do clube. A sereia se apaixona pelo salva-vidas bonitão que trabalha no clube e implora às garotas que a ajudem a conquistar o bonitão."
+    },
+    {
+        "name": "Avatar",
+        "image": "avatar.png",
+        "price": 50.99,
+        "description": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem ser primitivos, mas são altamente evoluídos. Como o ambiente do planeta é tóxico, foram criados os avatares, corpos biológicos controlados pela mente humana que se movimentam livremente em Pandora. Jake Sully, um ex-fuzileiro naval paralítico, volta a andar através de um avatar e se apaixona por uma Na'vi. Esta paixão leva Jake a lutar pela sobrevivência de Pandora."
+    },
+    {
+        "name": "castlevania",
+        "image": "castlevania.png",
+        "price": 35.99,
+        "description": "Em Castlevania, reza a lenda que, a cada 100 anos, o temível Vlad Drácula ressucitaria dos mortos com o objetivo de dominar toda a Terra. Os únicos capazes de impedir a ameaça são os membros da família Belmont, também conhecidos como o clã de caçadores do Conde Drácula."
+    },
+    {
+        "name": "bad Teacher",
+        "image": "badteacher.png",
+        "price": 40.99,
+        "description": "Para a maioria, o ensino é uma profissão honrosa, exceto para Elizabeth. A desbocada e embriagada professora mal pode esperar para se casar com um homem rico e largar o emprego, mas assim que seu namorado a deixa, ela precisa repensar sobre seus planos. Quando Scott Delacorte, um professor substituto bonito e rico chega à escola, Elizabeth encontra nele uma saída para sua situação, mas terá de enfrentar a forte concorrência de Amy, uma colega popular e alegre."
+    },
+    {
+        "name": "Captain America the First Avenger",
+        "image": "Captainamerica.png",
+        "price": 50.99,
+        "description": "Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra."
+    }
+]
